@@ -1,4 +1,4 @@
-  <h2 align="left">Hi 👋! My name is Ali Aais and I'm a Web Developer in Making from Hunza,Pakistan😄</h2>
+
   <h3 align="left">Eager to Learn About New Technologies👀😎</h3>
   <h3 align="left">Learning JS & React JS 🙂</h3>
 <div align="center">
