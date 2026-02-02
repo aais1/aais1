@@ -1,1 +1,1 @@
-a <u>20 YO</u> <strong><i> Full Stack developer</i></strong>
+a <u>A</u> <strong><i> Full Stack developer</i></strong> who knows that he does not know
